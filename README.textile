@@ -1,0 +1,6 @@
+h1. このリポジトリは何？
+
+Software Design誌 2012年5月号でCloud Foundryを動作させる部分のサポートページです。
+
+既知の問題は、以下に書かれる予定です。
+https://github.com/hamakn/software-design-2012-04/issues
